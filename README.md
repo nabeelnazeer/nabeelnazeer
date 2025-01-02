@@ -1,9 +1,34 @@
-# 💫 About Me:
-Welcome to my GitHub profile! I'm a passionate student at CUSAT who loves to code and explore the exciting worlds of AI and ML, computer vision, and image processing. When I'm not busy with those, you'll likely find me developing games and bringing my imagination to life.<br><br>Join me on this journey of discovering and creating, as we push the limits of technology and see what amazing things we can achieve. Let's connect and collaborate to build a better future together!
+# 👋 **Hey there, I'm Nabeel Nazeer!** 🚀
 
+🎓 **Integrated MSc in Computer Science** | AI & Data Science  
+🏫 **Cochin University of Science and Technology**  
+🧠 **Passionate about AI, Deep Learning, and Brain-Inspired Technologies**  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nabeel_nazeer0.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeel-nazeer-158472256/)
+## 💼 **Experience Highlights:**  
+- 🧪 **AI Research Intern @ IIT Mandi**: Worked on EEG data classification using Deep Learning.  
+- 🛠️ Built projects like **Otterly**, **CipherTag**, **Churukki**, **InterviewMe**, **Sahaayi** and **Inclusify** focusing on AI-powered solutions.
+
+## 🛠️ **Tech Stack I Love:**  
+- **Languages:** Python, JavaScript, R, Java, Go  
+- **Frameworks:** TensorFlow, PyTorch, Django, React.js, Next.js  
+
+## 🥇 **Achievements:**  
+- 🥈 **Hack-for-Tomorrow24** – 2nd Place  
+- 🥉 **AI-Samasya Hack ICGAIFE 2.0** – 4th Place  
+- 🏆 **ISRO START Programme** – Grade A+  
+
+## 🌐 **Let's Connect:**  
+- [![GitHub](https://img.shields.io/badge/GitHub-nabeelnazeer-181717?style=flat-square&logo=github)](https://github.com/nabeelnazeer)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-nabeelnazeer-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nabeelnazeer07/)  
+- [![Instagram](https://img.shields.io/badge/Instagram-nabeel.ai-833AB4?style=flat-square&logo=instagram)](https://www.instagram.com/nabeel_nazeer0.0/)  
+- [![Reddit](https://img.shields.io/badge/Reddit-nabeelnazeer-FF4500?style=flat-square&logo=reddit)](https://www.reddit.com/user/pablo_006/)  
+- [![X](https://img.shields.io/badge/X-nabeel_nazeer-000000?style=flat-square&logo=x)](https://x.com/NabeelNaze57871)  
+
+## 🎯 **Fun Fact:**  
+I’m passionate about combining AI with neuroscience to make smarter systems and better tech for society!
+
+✨ *"Turning complex problems into elegant AI solutions."*
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
